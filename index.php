@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <h1> Le ROI</h1>
         <h2> Tonton Jeff le cuisinié </h2>
+        <h1>TONTON DU BLED OUAIS, POULET BANANE EVERYDAY</h1>
         <?php
         // put your code here
         ?>
