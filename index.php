@@ -17,5 +17,6 @@ and open the template in the editor.
         // put your code here
         ?>
         <h2>je suis la, cherche ^^ petit CON</h2>
+        <h1>test conflit</h1>
     </body>
 </html>
