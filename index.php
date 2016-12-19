@@ -16,6 +16,6 @@ and open the template in the editor.
         <?php
         // put your code here
         ?>
-        <h2>je suis la, cherche ^^</h2>
+        <h2>je suis la, cherche ^^ petit CON</h2>
     </body>
 </html>
